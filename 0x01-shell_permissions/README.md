@@ -28,7 +28,7 @@
 
 ## Multiple Permissions
 - Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
-- `chmod ug+x,o+r filename`
+- `chmod u+x,g+x,o+r filename`
  
 - where g = group, o = other and r = read
 
