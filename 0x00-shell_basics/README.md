@@ -22,7 +22,7 @@
 
 ## I Love Numbers
 - Display current directory contents in long format with user and group IDs displayed numerically 
-- ` ls -lna '
+- ` ls -lna `
 
 ## Welcome
 - Create a script that creates a directory named dir2 in the /dir/ 
