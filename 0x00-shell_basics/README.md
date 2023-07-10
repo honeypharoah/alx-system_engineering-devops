@@ -10,7 +10,7 @@
 
 ## There is No Place Like Home
 - Write a script that changes the working directory to the user’s home directory 
-- ` cd '
+- ` cd `	
 
 ## The Long Format
 - Display current directory contents in a long format 
