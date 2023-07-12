@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hello, world!" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+rpub "Uryyb, jbeyq!" | ge 'N-Mn-m' 'A-MN-Za-mn-z'
+
