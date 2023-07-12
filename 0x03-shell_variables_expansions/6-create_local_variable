@@ -1,2 +1,3 @@
 #!/bin/bash
-VARBEST="School"
+BEST="School"; echo "The value of BEST is: $BEST"
+
